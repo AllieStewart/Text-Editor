@@ -1,3 +1,5 @@
+// Start of JS file
+// Webpack config file to export plugins, manifests, loaders, etc.
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
@@ -17,14 +19,17 @@ module.exports = () => {
       filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
+    // Workbox plugins here
     plugins: [
       
     ],
 
     module: {
+      // CSS loaders and babel-loader here
       rules: [
         
       ],
     },
   };
 };
+// End of JS file

@@ -1,3 +1,5 @@
+// Start of JS file
+// Server handler for routes.
 const express = require('express');
 
 const app = express();
@@ -10,3 +12,4 @@ app.use(express.json());
 require('./routes/htmlRoutes')(app);
 
 app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
+// End of JS file

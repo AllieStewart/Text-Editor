@@ -1,3 +1,5 @@
+// Start of JS file
+// Image header.
 const header = `
 /*
        _____  ____________
@@ -10,3 +12,4 @@ just another text editor
 `;
 
 export { header };
+// End of JS file

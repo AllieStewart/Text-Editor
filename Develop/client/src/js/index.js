@@ -1,3 +1,5 @@
+// Start of JS file
+// Initialize html and service worker.
 import { Workbox } from 'workbox-window';
 import Editor from './editor';
 import './database';
@@ -31,3 +33,4 @@ if ('serviceWorker' in navigator) {
 } else {
   console.error('Service workers are not supported in this browser.');
 }
+// End of JS file
