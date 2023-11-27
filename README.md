@@ -14,7 +14,7 @@
 </br>
 
 ## Description
-Challenge 19 coursework for UT bootcamp. Uses PWA structure, idb package for IndexedDB, and Render. </br>
+Challenge 19 coursework for UT bootcamp. Uses PWA structure, idb package for IndexedDB, and Heroku. </br>
 This is a text editor that not only runs in-browser while online, but offline as well. </br>
 It retrieves and stores data to an IndexedDB database, and features data persistence methods </br>
 that can be relied on, in case the browser does not support certain options. </br>
