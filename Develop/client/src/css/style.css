@@ -1,3 +1,5 @@
+/* Start of CSS file */
+/* CSS file that holds style for the .html. */
 /* app shell CSS */
 :root {
   --primary: #31a9e1;
@@ -209,3 +211,4 @@ h1 {
     font-size: 18px;
   }
 }
+/* End of CSS file */

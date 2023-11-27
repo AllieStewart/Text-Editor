@@ -14,17 +14,20 @@
 </br>
 
 ## Description
-Challenge 19 coursework for UT bootcamp. Uses PWA structure, idb package for IndexedDB, and Render.
+Challenge 19 coursework for UT bootcamp. Uses PWA structure, idb package for IndexedDB, and Render. </br>
+This is a text editor that not only runs in-browser while online, but offline as well. </br>
+It retrieves and stores data to an IndexedDB database, and features data persistence methods </br>
+that can be relied on, in case the browser does not support certain options. </br>
 
 ## Screenshots
----Insert stuff here---
+---Insert stuff here--- </br>
 
 ## Usage
 Simply click on the link and watch the magic happen. </br>  
 Link to the website: --- </br>
 
 ## What I Have Learned
----Insert stuff here---
+---Insert stuff here--- </br>
 
 ## Credits
 Made by Allie Stewart. </br>
