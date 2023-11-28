@@ -15,19 +15,40 @@
 
 ## Description
 Challenge 19 coursework for UT bootcamp. Uses PWA structure, idb package for IndexedDB, and Heroku. </br>
-This is a text editor that not only runs in-browser while online, but offline as well. </br>
-It retrieves and stores data to an IndexedDB database, and features data persistence methods </br>
-that can be relied on, in case the browser does not support certain options. </br>
+This is a text editor that not only runs in-browser while online, but can be downloaded and used </br>
+offline as well. It retrieves and stores data to an IndexedDB database, and features data </br>
+persistence methods that can be relied on, in case the browser does not support certain options. </br>
 
 ## Screenshots
----Insert stuff here--- </br>
+---Main page--- </br>
+
+</br>
+
+---Entering text--- </br>
+
+</br>
+
+---Checking manifest.json--- </br>
+
+</br>
+
+---Checking JATe storage--- </br>
+
+</br>
+
+---Downloaded app--- </br>
+
+</br>
 
 ## Usage
 Simply click on the link and watch the magic happen. </br>  
 Link to the website: --- </br>
 
 ## What I Have Learned
----Insert stuff here--- </br>
+I have learned how PWAs (Progressive Web Applications) function as a client/server setting. </br>
+The server hosts the routes (back-end) while the client hosts the css, images, js files, as </br>
+well as the main index.html, service worker, and webpack configuration (front-end) for the program. </br>
+Being able to download the application and use it offline is extremely useful. </br>
 
 ## Credits
 Made by Allie Stewart. </br>
