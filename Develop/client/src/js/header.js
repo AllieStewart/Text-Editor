@@ -1,5 +1,5 @@
 // Start of JS file
-// Image header; default value.
+// Image header.
 const header = `
 /*
        _____  ____________

@@ -26,14 +26,8 @@ warmStrategyCache({
   strategy: pageCache,
 });
 
-// offlineFallback({
-//   urls: ['/index.html', '/'],
-//   strategy: pageCache,
-// })
-
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
-// TODO: Implement asset caching
 ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
 registerRoute(
     new StaleWhileRevalidate({
