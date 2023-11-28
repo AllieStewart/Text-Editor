@@ -21,28 +21,31 @@ persistence methods that can be relied on, in case the browser does not support 
 
 ## Screenshots
 ---Main page--- </br>
-
-</br>
-
----Entering text--- </br>
-
+![Alt text](Screenshots/main_page.png)
 </br>
 
 ---Checking manifest.json--- </br>
-
+![Alt text](Screenshots/manifest_json.png)
 </br>
 
----Checking JATe storage--- </br>
+![Alt text](Screenshots/manifest_json2.png)
+</br>
 
+---Checking JATE storage--- </br>
+![Alt text](Screenshots/indexeddb.png)
 </br>
 
 ---Downloaded app--- </br>
+![Alt text](Screenshots/application.png)
+</br>
 
+---After entering text on app and opening website--- </br>
+![Alt text](Screenshots/updated_page.png)
 </br>
 
 ## Usage
 Simply click on the link and watch the magic happen. </br>  
-Link to the website: --- </br>
+Link to the website: https://jate-text-editor-ajs-4e1e1edc5b5e.herokuapp.com/ </br>
 
 ## What I Have Learned
 I have learned how PWAs (Progressive Web Applications) function as a client/server setting. </br>
