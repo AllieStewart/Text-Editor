@@ -45,7 +45,7 @@ persistence methods that can be relied on, in case the browser does not support 
 
 ## Usage
 Simply click on the link and watch the magic happen. </br>  
-Link to the website: https://jate-text-editor-ajs-4e1e1edc5b5e.herokuapp.com/ </br>
+Link to the website: OFFLINE </br>
 
 ## What I Have Learned
 I have learned how PWAs (Progressive Web Applications) function as a client/server setting. </br>
